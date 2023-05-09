@@ -1,4 +1,4 @@
-# ECE-549-Final-Project
+# ECE 549 Final Project
 
 ## Index
 + [Packages and Nodes](#-packages-and-nodes)
