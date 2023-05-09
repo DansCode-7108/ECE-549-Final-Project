@@ -5,16 +5,18 @@
 + [USB Camera Setup](#-usb-camera-setup)
 + [Running Instrucions](#-running-instructions)
 + [References](#-references)
++ [Code Explanation](#-code-explanation)
 <br>
 
-## ● Packages and Nodes
+## Packages and Nodes
 
 
-## ● USB Camera Setup
+## USB Camera Setup
 
 
-## ● Running Instructions
+## Running Instructions
 
-## ● References
-+ [Reference Code](https://github.com/jayeshbhole/Sign-Detection-OpenCV/blob/master/fedup.py)
+## References
+[Reference Code](https://github.com/jayeshbhole/Sign-Detection-OpenCV/blob/master/fedup.py)
 
+## Code Explanation
